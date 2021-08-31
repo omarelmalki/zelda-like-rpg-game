@@ -2,7 +2,7 @@
 ### How to start
 - Clone/download the repo
 - Open it in your favourite IDE
-- Make sure to mark the res folder as resource root
+- Make sure to mark the res folder as resource root if needed
 - Run
 
 ### How to play
