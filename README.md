@@ -78,30 +78,17 @@ as well as a chest containing a MAX_POTION that you can use to restore all your 
 
 #### Sources of sprites found online (res/images/sprites folder):
 
-* wood.icon.png: https://ark.gamepedia.com/media/ark.gamepedia.com/d/df/Wood.png
-
-* monster_part.icon.png : https://www.zeldadungeon.net/wiki/images/thumb/5/58/Bokoblin_Horn.png/100px-Bokoblin_Horn.png
-
-* flower.icon.png : http://www.pngmart.com/files/5/Gazania-PNG-File.png
-
-* razzberry.icon.png: https://maxcdn.icons8.com/Share/icon/color/Gaming/razz_berry1600.png
-
-* potion.icon.png : https://boost-rankedboost.netdna-ssl.com/wp-content/uploads/2016/08/Potion-Pokemon-Go.png
-
-* max_potion.icon.png : https://boost-rankedboost.netdna-ssl.com/wp-content/uploads/2016/08/Pokemon-Go-Potion.png
-
-* portal.png : https://www.freepngimg.com/thumb/portal/88218-video-game-portal-line-free-transparent-image-hd-thumb.png
-
-* chest.png: originally from : http://i242.photobucket.com/albums/ff267/lunarea_album/Resources/RMVX-Ace/Requests/small-chests_zpsnh9opuge.png but edited
-
-* greenDisplay.png : http://www.trademarkea.com/wp-content/uploads/2014/06/circle-green.png
-
-* light-blue-circle.png: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/WX_circle_lightblue.png/120px-WX_circle_lightblue.png
-
-* orangeDisplay.png: https://www.iconsdb.com/icons/preview/orange/circle-xxl.png
-
-* violetDisplay.png: https://www.clker.com/cliparts/g/N/H/g/I/7/light-violet-circle-md.png
-
-* pikachu.png: http://orig01.deviantart.net/f570/f/2016/348/1/0/pikachu_sprite_by_aniki0001-darlp9n.png
-
-* skull_mode.png: originally from https://i.pinimg.com/originals/95/93/5c/95935c05d48d0d00159cd1292dc92368.png but edited
+- wood.icon.png: https://ark.gamepedia.com/media/ark.gamepedia.com/d/df/Wood.png
+- monster_part.icon.png : https://www.zeldadungeon.net/wiki/images/thumb/5/58/Bokoblin_Horn.png/100px-Bokoblin_Horn.png
+- flower.icon.png : http://www.pngmart.com/files/5/Gazania-PNG-File.png
+- razzberry.icon.png: https://maxcdn.icons8.com/Share/icon/color/Gaming/razz_berry1600.png
+- potion.icon.png : https://boost-rankedboost.netdna-ssl.com/wp-content/uploads/2016/08/Potion-Pokemon-Go.png
+- max_potion.icon.png : https://boost-rankedboost.netdna-ssl.com/wp-content/uploads/2016/08/Pokemon-Go-Potion.png
+- portal.png : https://www.freepngimg.com/thumb/portal/88218-video-game-portal-line-free-transparent-image-hd-thumb.png
+- chest.png: originally from : http://i242.photobucket.com/albums/ff267/lunarea_album/Resources/RMVX-Ace/Requests/small-chests_zpsnh9opuge.png but edited
+- greenDisplay.png : http://www.trademarkea.com/wp-content/uploads/2014/06/circle-green.png
+- light-blue-circle.png: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/WX_circle_lightblue.png/120px-WX_circle_lightblue.png
+- orangeDisplay.png: https://www.iconsdb.com/icons/preview/orange/circle-xxl.png
+- violetDisplay.png: https://www.clker.com/cliparts/g/N/H/g/I/7/light-violet-circle-md.png
+- pikachu.png: http://orig01.deviantart.net/f570/f/2016/348/1/0/pikachu_sprite_by_aniki0001-darlp9n.png
+- skull_mode.png: originally from https://i.pinimg.com/originals/95/93/5c/95935c05d48d0d00159cd1292dc92368.png but edited
