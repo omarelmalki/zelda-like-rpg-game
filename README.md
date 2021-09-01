@@ -93,4 +93,4 @@ as well as a chest containing a MAX_POTION that you can use to restore all your 
 - pikachu.png: http://orig01.deviantart.net/f570/f/2016/348/1/0/pikachu_sprite_by_aniki0001-darlp9n.png
 - skull_mode.png: originally from https://i.pinimg.com/originals/95/93/5c/95935c05d48d0d00159cd1292dc92368.png but edited
 
-Hamza Laarous and Omar El Malki, EPFL, Switzeerland, 2019
+Hamza Laarous and Omar El Malki, EPFL, Switzerland, 2019
