@@ -73,7 +73,7 @@ Once in Chateau, you will see a portal that takes you back home to Ferme (you ne
 as well as a chest containing a MAX_POTION that you can use to restore all your HP.
 
 ### Disclaimer:
-- This is a class project in which I coded everything in the play.game package as well as the play.Play class
+- This is a class project in which I coded most of the play.game package as well as the play.Play class
 - The play.io, play.math, play.signal and play.window packages are utilities that were provided
 
 #### Sources of sprites found online (res/images/sprites folder):
